@@ -10,8 +10,6 @@ This project demonstrates how to build, train, and evaluate a deep learning mode
 - [Installation](#installation)  
 - [Results](#results)  
 - [Future Improvements](#future-improvements)  
-- [Contributing](#contributing)  
-- [License](#license)  
 
 ## Overview  
 The primary goal of this project is to classify handwritten digits from the MNIST dataset using a Convolutional Neural Network (CNN). The project follows these key steps:  
