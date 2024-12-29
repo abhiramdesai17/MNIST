@@ -7,7 +7,6 @@ This project demonstrates how to build, train, and evaluate a deep learning mode
 - [Features](#features)  
 - [Technologies Used](#technologies-used)  
 - [Project Workflow](#project-workflow)  
-- [Installation](#installation)  
 - [Results](#results)  
 - [Future Improvements](#future-improvements)  
 
